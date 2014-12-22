@@ -35,9 +35,16 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Ordinances set foorth by the King for the rule and gouernement of his Maiesties men of warre. Read a
+
 #####Body#####
-Ordinances set foorth by the King for the rule and gouernement of his Maiesties men of warre. Read a
+
+1. Ordinances ſet foorth by the
+King, for the rule and gouernement
+of his men of
+warre.
+THe King meaning to take order againſt ſuch complaints as
+are vſually made vnto him concerning the iIN the yeare 1591. vpon Saturday the thirtieth day of
+March in the preſence of vs Iohn Vauquelin Eſq
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
